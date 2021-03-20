@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**devlfx/devlfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devlfx&hide=prs,issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 😀
 
-Here are some ideas to get you started:
+#### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm fullstack developer, looking for some fun problems to solve. I'm glad to share my knowledge with anyone "Ain't Much, But It's Honest Work".
+
+* 🧑‍💻 I am currently working on software testing (I don't know how).
+* 💻 Web Developer.
+* 🧪 Playing with load tests.
+* 💬 Ask me about Python 🐍, Php 👴🏻, Databases ❤️.
+* 📝 Currently learning react, swift.
+  
+
+### Digital happy place.
+
+Here you'll find (hopefully) all kind of creations I've made
+on my professional path to enlightenment
